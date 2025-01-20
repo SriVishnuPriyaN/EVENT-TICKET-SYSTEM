@@ -58,4 +58,41 @@ src/
    ```bash
    git clone https://github.com/your-username/event-ticket-management-system.git
    cd event-ticket-management-system
+---
+### Install dependencies:
+```bash
+npm install
+---
+## **Run the application:**
+
+```bash
+npm start
+
+## **Usage**
+
+- **Home Page:** Displays a hero section with a background image and a sparkling "Book Now" button.
+- **Login Page:** Simple login form for user authentication.
+- **User Page:** Browse events, view details, and book tickets.
+- **Admin Page:** Manage events, view attendees, and use the dashboard for insights.
+
+## **Customization**
+
+- Modify the `HomePage.js` and `index.css` to change the look and feel of the hero page.
+- Update the `EventForm.js` to add more fields for event creation if needed.
+
+---
+
+## **License**
+
+This project is licensed under the **MIT License**.
+
+---
+
+## **Contact**
+
+For any queries or contributions, feel free to reach out at [your-email@example.com].
+
+---
+
+**Happy coding!** 😊
 
